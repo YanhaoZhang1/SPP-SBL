@@ -1,5 +1,5 @@
 # SPP-SBL: Space-Power Prior Sparse Bayesian Learning for Block Sparse Recovery
-This set of Matlab (Vision R2021b) functions contain the core code to reproduce the results of the above paper (https://arxiv.org/).
+This set of Matlab (Vision R2021b) functions contain the core code to reproduce the results of the above paper (https://arxiv.org/abs/2505.08518).
 
 
 
